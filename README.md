@@ -6,6 +6,7 @@ TeckStack
   prisma as typeORM
   pooled connection link is used 
 ```
+```
 npm install
 npm run dev
 ```
